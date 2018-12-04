@@ -1,0 +1,13 @@
+C:\Users\TwinkleN1\Desktop\WPFChart\WPFChart\bin\Release\WPFChart.exe
+C:\Users\TwinkleN1\Desktop\WPFChart\WPFChart\bin\Release\WPFChart.pdb
+C:\Users\TwinkleN1\Desktop\WPFChart\WPFChart\obj\Release\WPFChart.csprojAssemblyReference.cache
+C:\Users\TwinkleN1\Desktop\WPFChart\WPFChart\obj\Release\Window1.baml
+C:\Users\TwinkleN1\Desktop\WPFChart\WPFChart\obj\Release\Window1.g.cs
+C:\Users\TwinkleN1\Desktop\WPFChart\WPFChart\obj\Release\App.g.cs
+C:\Users\TwinkleN1\Desktop\WPFChart\WPFChart\obj\Release\WPFChart_MarkupCompile.cache
+C:\Users\TwinkleN1\Desktop\WPFChart\WPFChart\obj\Release\WPFChart.g.resources
+C:\Users\TwinkleN1\Desktop\WPFChart\WPFChart\obj\Release\WPFChart.Properties.Resources.resources
+C:\Users\TwinkleN1\Desktop\WPFChart\WPFChart\obj\Release\WPFChart.csproj.GenerateResource.cache
+C:\Users\TwinkleN1\Desktop\WPFChart\WPFChart\obj\Release\WPFChart.csproj.CoreCompileInputs.cache
+C:\Users\TwinkleN1\Desktop\WPFChart\WPFChart\obj\Release\WPFChart.exe
+C:\Users\TwinkleN1\Desktop\WPFChart\WPFChart\obj\Release\WPFChart.pdb
